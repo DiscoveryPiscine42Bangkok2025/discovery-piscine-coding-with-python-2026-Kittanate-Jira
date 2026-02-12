@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 user_input = int(input())
 
 if user_input == 0:

@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 import sys
 
 number_of_params = len(sys.argv) - 1
